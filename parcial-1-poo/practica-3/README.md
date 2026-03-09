@@ -16,4 +16,4 @@ Desarrollar un sistema orientado a objetos más robusto, integrando herencia, va
 ## Evidencia del manejo de errores
 Al ejecutar `index.php`:
 - Para el `Admin`, se muestran nombre, correo y rol correctamente.
-- Para el `Alumno` con correo inválido, aparece:
+- Para el `Alumno` con correo inválido, aparecera el error
